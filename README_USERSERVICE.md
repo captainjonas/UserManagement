@@ -46,3 +46,8 @@ update the data in redis.
        Considering UserApplication is deployed in a distributed way, reddisson is necessary to avoid conflicts
     between different threads. What's more, Redisson has a watch-dog mechanism to prolong the expire time
     automatically which ensures the integrity of the whole service computing in one thread.
+
+
+
+
+
